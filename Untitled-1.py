@@ -1,20 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 while True:
     op=int(input("selecciona la operacion que deseas realizar\n1.-Suma\n2.-Resta\n3.-Multiplicar\n4.-Dividir\n"))
     if op == 1 :
