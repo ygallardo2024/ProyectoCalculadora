@@ -37,7 +37,7 @@ while True:
 
         
     else:  
-        print ("sealeccionaste dividir")
+        print ("seleccionaste dividir")
 
 
 
